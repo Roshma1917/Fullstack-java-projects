@@ -44,21 +44,6 @@ Features:
 
 More projects are on the way as the journey continues.
 
-
-## Screenshots
-
-### Home Page
-
-Screenshots\Home-page.png"
-
-### Add Note
-
-Screenshots\Add-note.png"
-
-### Notes List
-
-Screenshots\Notes-list.png"
-
 ## Why This Repository Exists
 
 This repository is more than a collection of code.
