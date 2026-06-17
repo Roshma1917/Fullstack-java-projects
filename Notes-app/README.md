@@ -45,7 +45,7 @@ Features:
 More projects are on the way as the journey continues.
 
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
 
